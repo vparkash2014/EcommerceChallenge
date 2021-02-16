@@ -1,0 +1,18 @@
+.nav--bg {
+  background-color: #EDEDE8;
+}
+.nav--primary {
+  font-size: 20px;
+  color: #203128;
+}
+.nav--primary:hover {
+  color: #046243;
+  font-weight: bold;
+}
+.nav--secondary {
+  color: #76A78E;
+}
+.nav--secondary:hover {
+  color: #046243;
+  font-weight: bold;
+}
