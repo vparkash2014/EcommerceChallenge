@@ -1,0 +1,28 @@
+@use 'palette';
+
+.nav {
+  &--bg {
+    background-color: palette.$background-2;
+  }
+
+  &--primary{
+    font-size: 20px ;
+    color: palette.$text-dark;
+
+    &:hover {
+      color:palette.$text-1;
+      font-weight: bold;
+    }
+  }
+
+  &--secondary{
+    color: palette.$text-2;
+
+    &:hover {
+      color:palette.$text-1;
+      font-weight: bold;
+    }
+  }
+
+
+}
