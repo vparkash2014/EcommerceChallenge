@@ -6,3 +6,11 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.hdr--small {
+  height: 300px;
+}
+.hdr__text {
+  background-color: transparent;
+  margin-left: 30%;
+  margin-top: 10%;
+}
