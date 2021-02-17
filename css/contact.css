@@ -1,0 +1,27 @@
+.contact {
+  padding-top: 100px;
+  text-align: center;
+}
+.contact h1 {
+  margin-bottom: 50px;
+}
+.contact h3 {
+  margin-bottom: 30px;
+}
+.contact__form {
+  border: 1px solid #76A78E;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 30px;
+}
+.contact__label {
+  display: block;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 25%;
+  margin-bottom: 0;
+}
+.contact__input {
+  width: 50%;
+  border: 1px solid #76A78E;
+}
