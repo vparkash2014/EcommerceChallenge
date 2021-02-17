@@ -7,4 +7,14 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+
+  &--small {
+    height: 300px;
+  }
+
+  &__text {
+    background-color: transparent;
+    margin-left: 30%;
+    margin-top: 10%;
+  }
 }
