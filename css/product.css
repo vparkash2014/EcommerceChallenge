@@ -14,3 +14,13 @@
   margin-left: 10%;
   margin-right: 10%;
 }
+
+.amount {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 0px;
+}
+.amount p {
+  display: inline-block;
+  margin: 0px;
+}
