@@ -1,0 +1,23 @@
+.feature {
+  background-color: #EDEDE8;
+  padding-top: 100px;
+  text-align: center;
+}
+.feature__hdr {
+  color: #283E32;
+  font-size: 25px;
+  margin-bottom: 50px;
+}
+.feature h3 {
+  margin-bottom: 100px;
+}
+.feature__btn {
+  color: #76A78E;
+  font-size: 20px;
+  border: 1px solid #046243;
+  padding: 10px 20px 10px 20px;
+}
+.feature__btn:hover {
+  color: #046243;
+  font-weight: bold;
+}
