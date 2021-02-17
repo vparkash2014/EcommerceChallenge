@@ -1,0 +1,10 @@
+@use 'palette';
+
+.hdr {
+  width: inherit;
+  height: 600px;
+  background-image: url(../images/main.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
