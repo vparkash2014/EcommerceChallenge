@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "kepler-std";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kepler Std Bold Semicondensed Display"), url("../kepler-std-cufonfonts-webfont/KeplerStd-BoldScnDisp.woff") format("woff");
+}
+@font-face {
+  font-family: "kepler-italic";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Kepler Std Bold Semicondensed Display Italic"), url("../kepler-std-cufonfonts-webfont/KeplerStd-BoldScnItDisp.woff") format("woff");
+}
+* {
+  font-family: kepler-std;
+  word-spacing: 6px;
+}
