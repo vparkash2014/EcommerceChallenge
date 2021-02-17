@@ -1,0 +1,16 @@
+.product {
+  padding-top: 50px;
+}
+.product__hdr {
+  color: #283E32;
+  font-size: 30px;
+  margin-bottom: 50px;
+  margin-left: 8%;
+  margin-right: 8%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #76A78E;
+}
+.product__grid {
+  margin-left: 10%;
+  margin-right: 10%;
+}
