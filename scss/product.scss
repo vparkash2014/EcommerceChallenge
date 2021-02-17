@@ -1,0 +1,21 @@
+@use 'palette';
+
+.product {
+  padding-top: 50px;
+  // text-align: center;
+
+  &__hdr {
+    color: palette.$text-dark;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid palette.$text-2;
+  }
+
+  &__grid {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
