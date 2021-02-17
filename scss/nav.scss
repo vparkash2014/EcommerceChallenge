@@ -3,6 +3,7 @@
 .nav {
   &--bg {
     background-color: palette.$background-2;
+    border-bottom: 1px solid palette.$text-1;
   }
 
   &--primary{

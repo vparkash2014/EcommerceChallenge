@@ -1,5 +1,4 @@
 .feature {
-  background-color: #EDEDE8;
   padding-top: 100px;
   text-align: center;
 }
@@ -20,4 +19,8 @@
 .feature__btn:hover {
   color: #046243;
   font-weight: bold;
+}
+.feature__grid {
+  margin-left: 10%;
+  margin-right: 10%;
 }
